@@ -1,0 +1,1 @@
+git remote set-url origin https://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@github.com/sudipa14/git-bisect.git
